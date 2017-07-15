@@ -4,10 +4,10 @@ $(function() {
 	workLoad();
 	clientStuff();
 
-	//$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
-	//$(".biglink").fitText(1.5);
+	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
+	$(".biglink").fitText(1.5);
 
-	//$('textarea').autosize();
+	$('textarea').autosize();
 });
 
 // smoothScroll function is applied from the document ready function
@@ -25,6 +25,8 @@ function smoothScroll (duration) {
 	});
 }
 
+
+//work section//
 
 function workBelt() {
 
@@ -61,7 +63,7 @@ function  workLoad() {
 }
 
 
-
+//client section//
 
 function clientStuff() {
 
