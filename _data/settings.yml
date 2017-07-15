@@ -1,0 +1,109 @@
+#-------------------------------
+# General Site Settings
+
+title: Now You See Me
+description: Photographer // Designer // Cool Cat
+email: nutmeg024@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Gallery, url: '#work'}
+- {name: Work, url: '#clients'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Megan Goetz captures stunning natual light portraits with years of experience. Veiw her beautiful galleries.'
+  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  **Megan specializes in studio photography** She's great with kids and families. She designs highly professional portraits for pets, so they'll be look'n jazzy in their youTube videos. She loves nature and landscape [Photography,](https://www.facebook.com/nowuseemephoto/){:target="_blank"} and
+  she also puts effort into knitting [next-level fashion](https://scontent.fdet1-2.fna.fbcdn.net/v/t1.0-9/16265820_10101690632416287_4231435634371597839_n.jpg?oh=b3fe590ba5fd3e123a4270a54bde5cf7&oe=59B51B86){:target="_blank"}
+  
+
+
+skills:
+- {name: Communication, value: '9'}
+- {name: Organization, value: '7'}
+- {name: Creativity, value: '10'}
+- {name: Technical expertise, value: '6'}
+- {name: Planning, value: '7'}
+- {name: Visual Design, value: '6'}
+- {name: Multi-tasking, value: '8'}
+- {name: Whip & Nae Nae, value: '5'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: Architecture, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: City-IN, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Landscape, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Close-up, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Earthbound, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: weddings, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Candid, folder: 'proj-8', file: 'work/proj-8.html'}
+
+
+
+
+#-------------------------------
+# Clients Section
+
+clients:
+- {avatar: 'face.jpg',
+  name: 'Dana Danise',
+  title: 'Director of Design, Lifetouch.',
+  quote: '<p><strong>We all felt that Megan is a great</strong> asset to our team — and really works hard to understand our products. I made sure she was retained full-time.</p>',
+  logo: 'Lifetouch-logo.jpg'}
+- {avatar: 'face-2.jpg',
+  name: 'Robert Allen',
+  title: 'CEO, Allentowngroup Int.',
+  quote: '<p><strong>Working with Megan was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+  logo: 'logo2.png'}
+- {avatar: 'face-3.jpg',
+  name: 'Kimmy Ripley',
+  title: 'The Grim Sweeper, @KimmysSweeps.',
+  quote: '<p><strong>Yea, I guess shes good at cameras or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
+  logo: 'logo3.jpg'}
+- {avatar: 'face-4.jpg',
+  name: 'David Moon',
+  title: 'Owner & manager of, MoonGlow Entertainment.',
+  quote: '<p><strong>Yeah of course Megan was an awesome karaoke host! </strong></p>',
+  logo: 'logo4.jpg'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'http://twitter.com/nutmeg024'}
+- {icon: 'facebook', link: 'https://www.facebook.com/nowuseemephoto'}
+- {icon: 'instagram', link: 'https://www.instagram.com/nutmegsmerlot/'}
+- {icon: 'pinterest', link: 'https://www.pinterest.com/nutmeg024'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/megan-goetz-931255141'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

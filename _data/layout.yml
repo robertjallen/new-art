@@ -1,0 +1,19 @@
+# Layout settings
+
+animation: "bounceOut"
+strongAnimation: "textSlide"
+# Images
+
+logo: "logo.svg"
+hero: "hero-bg-original.jpg"
+hero1: "hero-bg.jpg"
+avatar: "megatar.jpg"
+
+# Colors
+
+accent: "#c99065"
+
+textColor: "#666"
+headlineColor: "#333"
+bgcolor: "#e5eaee"
+documentBackgroundColor: "#fff"
